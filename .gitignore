@@ -1,0 +1,64 @@
+# Tableau
+*.twb~
+*.tde
+*.tdsx
+*.hyper
+*.tfl
+*.tflx
+*.twbr
+*.twm
+
+# Tableau temp and backup files
+*.tmp
+*~.twb
+*~.twbx
+*.bak
+
+# Tableau log files
+tabprotosrv*.txt
+tablicsrv*.txt
+tabsvc*.txt
+
+# Tableau cache
+.tableau/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (if used for data prep)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+.env
+.venv/
+venv/
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+~$*.csv
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
