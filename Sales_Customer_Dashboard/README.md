@@ -106,3 +106,16 @@ The **Top 10 Customers by Profit** table provides an executive-level view of the
 This Tableau project demonstrates how interactive dashboards can transform raw transactional data from multiple regions into a powerful business intelligence tool. By separating sales performance from customer analytics into two dedicated views, stakeholders can quickly drill into the metrics that matter most to their role — whether it's identifying underperforming product categories, spotting seasonal trends, or recognizing the most valuable customers for targeted engagement.
 
 [🌐 **Explore the Live Dashboard on Tableau Public →**](https://public.tableau.com/shared/T3MMYJ232?:display_count=n&:origin=viz_share_link)
+
+---
+
+## 🙏 Acknowledgments
+
+This project is part of the comprehensive Tableau course by **DataWithBaraa**. Special thanks to Baraa for creating excellent educational content on data analytics and Tableau!
+
+**Connect with DataWithBaraa:**
+- 🎥 [YouTube Channel](https://www.youtube.com/@DataWithBaraa)
+- 🌐 [Website](https://www.datawithbaraa.com/)
+- 💻 [GitHub](https://github.com/DataWithBaraa)
+
+---

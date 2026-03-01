@@ -35,3 +35,16 @@ This project features a dual-dashboard analysis of 2023 sales performance and cu
 ## About This Portfolio
 
 Each dashboard linked above has its own detailed `README.md` file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Tableau techniques employed, and a closer look at the dashboard build.
+
+---
+
+## 🙏 Acknowledgments
+
+This project is part of the comprehensive Tableau course by **DataWithBaraa**. Special thanks to Baraa for creating excellent educational content on data analytics and Tableau!
+
+**Connect with DataWithBaraa:**
+- 🎥 [YouTube Channel](https://www.youtube.com/@DataWithBaraa)
+- 🌐 [Website](https://www.datawithbaraa.com/)
+- 💻 [GitHub](https://github.com/DataWithBaraa)
+
+---
