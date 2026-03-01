@@ -8,7 +8,7 @@ Explore dashboards below. Each has its own dedicated README with more details on
 
 ## 📈 Sales & Customer Dashboard (2023 Analysis)
 
-![Sales Dashboard](/images/sales_dashboard.png)
+![Sales Dashboard](/Sales_Customer_Dashboard/images/sales_dashboard.png)
 
 [🌐 **View Interactive Dashboard on Tableau Public**](https://public.tableau.com/shared/T3MMYJ232?:display_count=n&:origin=viz_share_link)
 
