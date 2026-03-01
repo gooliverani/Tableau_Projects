@@ -1,6 +1,6 @@
 # Sales & Customer Dashboard w/ Tableau
 
-![Sales Dashboard](/images/sales_dashboard.png)
+![Sales Dashboard](/Sales_Customer_Dashboard/images/sales_dashboard.png)
 
 [🌐 **View Interactive Dashboard on Tableau Public**](https://public.tableau.com/shared/T3MMYJ232?:display_count=n&:origin=viz_share_link)
 
@@ -67,7 +67,7 @@ This project was a journey through key Tableau features. Here's a look at what w
 
 ### Dashboard 1: Sales Dashboard | 2023
 
-![Sales Dashboard](/images/sales_dashboard.png)
+![Sales Dashboard](/Sales_Customer_Dashboard/images/sales_dashboard.png)
 
 This is your command center for sales performance. At a glance, you can see:
 
