@@ -32,6 +32,32 @@ This project features a dual-dashboard analysis of 2023 sales performance and cu
 
 ---
 
+## 👥 HR Dashboard (Human Resources Analysis)
+
+![HR Dashboard Overview](/HR_Dashboard_Project/icons_&_images/Overview_1.png)
+
+[🌐 **View Interactive Dashboard on Tableau Public**](#)
+
+This project features a comprehensive HR analytics dashboard with two main views — a **Summary View** covering workforce overview, demographics, and income analysis, and a **detailed Employee Records View** for in-depth individual analysis. The dataset of 8,950 synthetic employee records was generated using Python, and the dashboard enables HR managers to monitor hiring trends, workforce composition, salary patterns, and employee performance at a glance.
+
+**Key Tableau Skills Utilized:**
+* 🎨 Dashboard Layout & Design (Custom Backgrounds & Navigation)
+* ⚙️ Data Preparation (Python-Generated Synthetic Dataset)
+* 🧮 Calculated Fields (Employee Status, Age Groups, Salary Adjustments)
+* 📊 KPI Cards (Hired, Active, Terminated Counts)
+* 📈 Trend Analysis (Hiring & Termination Over Time)
+* 🗺️ Map Visualization (Employee Distribution by State & City)
+* 👥 Demographic Analysis (Gender Ratio, Age & Education Distributions)
+* 📉 Correlation Charts (Education vs. Performance Ratings)
+* 💰 Income Analysis (Salary Comparisons by Education & Gender)
+* 🎚️ Interactive Filters & Parameters
+* 📋 Filterable Employee Records Table
+* 🖱️ Dashboard Navigation Buttons & Custom Icons
+
+[➡️ **View Full Project Details (README)**](/HR_Dashboard_Project/README.md)
+
+---
+
 ## About This Portfolio
 
 Each dashboard linked above has its own detailed `README.md` file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Tableau techniques employed, and a closer look at the dashboard build.
