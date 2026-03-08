@@ -131,7 +131,7 @@ The final dataset is saved as `dataset/HumanResources.csv` and loaded directly i
 
 This Tableau project demonstrates how interactive dashboards can transform raw HR data into a powerful workforce intelligence tool. By separating the high-level summary from the detailed employee records into two dedicated views, HR managers can quickly switch between strategic insights and individual employee analysis — whether it's monitoring hiring trends, identifying demographic imbalances, spotting salary disparities, or reviewing individual employee profiles.
 
-[🌐 **View Interactive Dashboard on Tableau Public →**](#)
+[🌐 **View Interactive Dashboard on Tableau Public →**](https://public.tableau.com/app/profile/vladimir.vukoji.i./viz/HRDashboard_17729919518010/HRSummary)
 
 ---
 
