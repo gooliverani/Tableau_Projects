@@ -2,7 +2,7 @@
 
 ![HR Dashboard Overview](/HR_Dashboard_Project/icons_&_images/Overview_1.png)
 
-[🌐 **View Interactive Dashboard on Tableau Public**]([#](https://public.tableau.com/app/profile/vladimir.vukoji.i./viz/HRDashboard_17729919518010/HRSummary))
+[🌐 **View Interactive Dashboard on Tableau Public**](https://public.tableau.com/app/profile/vladimir.vukoji.i./viz/HRDashboard_17729919518010/HRSummary)
 
 ## Introduction
 
